@@ -130,3 +130,13 @@ Course: 1st Year
 This project demonstrates practical skills in Python development, desktop UI creation, and AI integration using Gemini API.
 
 The application provides a modern AI-powered assistant interface for IT management tasks.
+
+# Interface Screenshots
+
+## Main Window
+
+![Main Window](интерфейс.png)
+
+## Chat Interface
+
+![Chat Interface](интерфейс.png)
