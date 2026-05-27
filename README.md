@@ -117,7 +117,7 @@ ai-assistant-it-manager/
 
 # Student Information
 
-Full Name: YOUR NAME
+Full Name: Buranbaeyva Daiana
 
 Specialty: IT Management
 
