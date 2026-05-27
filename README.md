@@ -137,6 +137,3 @@ The application provides a modern AI-powered assistant interface for IT manageme
 
 ![Main Window](интерфейс.png)
 
-## Chat Interface
-
-![Chat Interface](интерфейс.png)
